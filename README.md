@@ -1,6 +1,6 @@
 <h2>Hi im arthur and im bored</h2>
 
-![Twitter Follow](https://http://img.shields.io/twitter/follow/ctrl_cheeb_del?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/ctrl_cheeb_del?label=Follow)
 
 ```javascript
 const arthur = {

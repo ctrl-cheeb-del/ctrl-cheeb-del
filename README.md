@@ -13,8 +13,8 @@ const arthur = {
             js: ["Vue", "Nuxt"],
             css: ["vuetify", "bootstrap"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "selenium", "open-cv", "php"]
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "selenium", "open-cv"]
     },
     currentProject: "Secret stuff"
     funFact: "if you slap a chicken with the force of 335,000mph it generates enough heat to cook it"

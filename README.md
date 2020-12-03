@@ -5,7 +5,7 @@
 ```javascript
 const arthur = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java"]
+    code: ["Javascript", "Typescript", "Java", "Node"]
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         mobileApp: ["Android App"],
@@ -14,7 +14,7 @@ const arthur = {
             css: ["vuetify", "bootstrap"]
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "selenium", "open-cv"]
+        misc: ["Firebase", "puppeteer", "open-cv"]
     },
     currentProject: "Secret stuff"
     funFact: "if you slap a chicken with the force of 335,000mph it generates enough heat to cook it"

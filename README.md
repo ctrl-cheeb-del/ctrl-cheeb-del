@@ -4,7 +4,7 @@
 
 ```javascript
 const arthur = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     code: ["Javascript", "Typescript", "Java", "Node"],
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {

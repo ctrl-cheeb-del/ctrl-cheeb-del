@@ -6,11 +6,11 @@
 const arthur = {
     pronouns: ["He", "Him"],
     code: ["Javascript", "Typescript", "Java", "Node"],
-    askMeAbout: ["web dev", "tech", "app dev", "music"],
+    askMeAbout: ["web dev", "tech", "music"],
     technologies: {
-        mobileApp: ["Android App"],
+        git: init
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Nuxt"],
             css: ["vuetify", "bootstrap"]
         },
         databases: ["mongo", "MySql"],

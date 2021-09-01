@@ -8,7 +8,6 @@ const arthur = {
     code: ["Javascript", "Typescript", "Java", "Node"],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
-        git: init
         frontEnd: {
             js: ["Three.js", "p5.js"],
             css: ["tailwind", "bootstrap"]

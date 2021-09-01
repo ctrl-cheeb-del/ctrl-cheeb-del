@@ -4,19 +4,19 @@
 
 ```javascript
 const arthur = {
-    pronouns: ["He", "Him"],
+    pronouns: ["any"],
     code: ["Javascript", "Typescript", "Java", "Node"],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
         git: init
         frontEnd: {
-            js: ["Nuxt"],
-            css: ["vuetify", "bootstrap"]
+            js: ["Three.js", "p5.js"],
+            css: ["tailwind", "bootstrap"]
         },
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "puppeteer", "open-cv"]
     },
-    currentProject: ["Secret stuff"],
+    currentProject: ["generative art"],
     funFact: ["if you slap a chicken with the force of 335,000mph it generates enough heat to cook it"]
 };
 ```

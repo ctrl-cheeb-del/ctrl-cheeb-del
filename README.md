@@ -1,4 +1,4 @@
-<h2>Hi👋 I'm arthur and im bored</h2>
+<h2>Hi👋 I'm arthur</h2>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ctrl_cheeb_del?label=Follow)
 

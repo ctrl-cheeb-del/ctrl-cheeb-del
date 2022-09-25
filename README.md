@@ -16,6 +16,5 @@ const arthur = {
         misc: ["Firebase", "puppeteer", "open-cv"]
     },
     currentProject: ["generative art"],
-    funFact: ["if you slap a chicken with the force of 335,000mph it generates enough heat to cook it"]
 };
 ```

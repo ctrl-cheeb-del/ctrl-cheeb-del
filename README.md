@@ -1,7 +1,7 @@
 <h2>Hi👋 I'm art</h2>
 
 ```javascript
-const arthur = {
+const art = {
     pronouns: ["they/them"],
     code: ["Javascript", "Typescript", "Java", "Node"],
     askMeAbout: ["web dev", "tech", "music"],

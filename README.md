@@ -1,6 +1,4 @@
-<h2>Hi👋 I'm arthur</h2>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ctrl_cheeb_del?label=Follow)
+<h2>Hi👋 I'm art</h2>
 
 ```javascript
 const arthur = {
@@ -9,7 +7,7 @@ const arthur = {
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
         frontEnd: {
-            js: ["Three.js", "p5.js"],
+            js: ["Three.js", "p5.js", "phaser"],
             css: ["tailwind", "bootstrap"]
         },
         databases: ["mongo", "MySql"],

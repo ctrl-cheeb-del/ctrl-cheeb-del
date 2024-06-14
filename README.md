@@ -2,17 +2,17 @@
 
 ```javascript
 const art = {
-    pronouns: ["they/them"],
+    pronouns: ["she/they"],
     code: ["Javascript", "Typescript", "Java", "Node"],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
         frontEnd: {
-            js: ["Three.js", "p5.js", "phaser"],
+            js: ["React", "Three.js"],
             css: ["tailwind", "bootstrap"]
         },
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "puppeteer", "open-cv"]
     },
-    currentProject: ["generative art"],
+    currentProject: ["Resoled"],
 };
 ```

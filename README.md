@@ -9,7 +9,7 @@
     📚 Degree - CS • SWU
     🐾 Ask about - ["music", "web dev"] 
     💻 Technologies - ["typescript". "java", "next.js"] 
-    💼 Current projects - <a href="https://resoled.it/" style="color: #87CEEB; text-decoration: none;">Resoled</a> & <a href="https://vinta.app/" style="color: #87CEEB; text-decoration: none;">Vinta</a>    
+    💼 Current projects - <a href="https://resoled.it/" style="color: #EEB3A3; text-decoration: none;">Resoled</a> & <a href="https://vinta.app/" style="color: #EEB3A3; text-decoration: none;">Vinta</a>    
 </div>
 </pre>
 <br>

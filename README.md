@@ -8,13 +8,12 @@
     💞 Pronouns - she/they
     📚 Degree - CS • SWU
     🐾 Ask about - ["music", "web dev"] 
-    💻 Technologies - ["typescript". "java", "next.js"] 
-    💼 Current projects - <a href="https://resoled.it/" style="color: #EEB3A3; text-decoration: none;">Resoled</a> & <a href="https://vinta.app/" style="color: #EEB3A3; text-decoration: none;">Vinta</a>    
+    💻 Technologies - ["typescript", "java", "next.js"] 
+    💼 Current projects - <a href="https://resoled.it/"><img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=58&height=21&lines=Resoled" alt="Resoled"/></a> & <a href="https://vinta.app/"><img style="vertical-align: middle;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=41&height=21&lines=Vinta"/></a>    
 </div>
 </pre>
 <br>
 
 <div align="center">
-
 <img src="./yawning-cat.gif" alt="yawning cat" width="80" height="50">
 </div>

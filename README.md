@@ -4,13 +4,15 @@
 
 <br>
 <pre>
+<div align="center">
     💞 Pronouns - she/they
     📚 Degree - CS • SWU
     🐾 Ask about - ["music", "web dev"] 
     💻 Technologies - ["typescript". "java", "next.js"] 
-    💼 Current projects - <a href="https://resoled.it/">Resoled</a> & <a href="https://vinta.app/">Vinta</a>    
+    💼 Current projects - <a href="https://resoled.it/" style="color: #87CEEB; text-decoration: none;">Resoled</a> & <a href="https://vinta.app/" style="color: #87CEEB; text-decoration: none;">Vinta</a>    
+</div>
 </pre>
-<br><br>
+<br>
 
 <div align="center">
 

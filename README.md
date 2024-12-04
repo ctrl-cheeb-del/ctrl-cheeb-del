@@ -9,7 +9,7 @@
     📚 Degree - CS • SWU
     🐾 Ask about - ["music", "web dev"] 
     💻 Technologies - ["typescript", "java", "next.js"] 
-    💼 Current projects - <a href="https://resoled.it/"><img align="top" style="vertical-align: top;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=58&height=19&lines=Resoled" alt="Resoled"/></a> & <a href="https://vinta.app/"><img align="top" style="vertical-align: top;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=41&height=19&lines=Vinta"/></a>    
+    💼 Current projects - <a href="https://resoled.it/"><img align="top" style="vertical-align: top;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=58&height=11&lines=Resoled" alt="Resoled"/></a> & <a href="https://vinta.app/"><img align="top" style="vertical-align: top;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=41&height=19&lines=Vinta"/></a>    
 </div>
 </pre>
 <br>

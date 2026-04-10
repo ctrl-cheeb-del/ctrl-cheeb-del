@@ -6,9 +6,7 @@
 <pre>
 <div align="center">
     💞 Pronouns - she/they
-    📚 Degree - CS • SWU
     🐾 Ask about - ["music", "web dev"] 
-    💻 Technologies - ["typescript", "java", "next.js"] 
     💼 Current projects - <a href="https://revnu.app"><img align="top" style="vertical-align: top;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1&pause=1000&color=EEB3A3&vCenter=true&repeat=false&width=58&height=18&lines=Revnu" alt="Revnu"/>
 </div>
 </pre>
